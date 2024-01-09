@@ -1,7 +1,7 @@
 ## IPL DATA VISUALIZER
 
 #### INTRODUCTION:
-
+A Second Year College python mini project
 The Project aims to visualize the Indian Premier League(IPL) data using Python.
 The Project explores interesting and insightful data from the data of the IPL
 Tournament dating back to its inaugural (2008) till the latest ever dataset
